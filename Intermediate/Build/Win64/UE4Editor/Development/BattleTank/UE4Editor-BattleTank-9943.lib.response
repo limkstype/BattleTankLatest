@@ -1,0 +1,28 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BattleTank-9943.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\BattleTankEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Tank.cpp.obj"
+"D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankAIController.cpp.obj"
+"D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankAimingComponent.cpp.obj"
+"D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankBarrel.cpp.obj"
+"D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankPlayerController.cpp.obj"
+"D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankTurret.cpp.obj"
+"D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTank.cpp.obj"
+"D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTankGameModeBase.cpp.obj"
+"D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTank.init.gen.cpp.obj"
+"D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTankGameModeBase.gen.cpp.obj"
+"D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Tank.gen.cpp.obj"
+"D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankAIController.gen.cpp.obj"
+"D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankAimingComponent.gen.cpp.obj"
+"D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankBarrel.gen.cpp.obj"
+"D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankPlayerController.gen.cpp.obj"
+"D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankTurret.gen.cpp.obj"
+"D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Default.rc2.res"
+/OUT:"D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-9943.lib"
+/INCLUDE:IMPLEMENT_MODULE_BattleTank

@@ -1,0 +1,5 @@
+D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Definitions.BattleTank.h
+D:\Unreal Project\BattleTankDemo\BattleTank\Source\BattleTank\Public\Tank.h
+d:\unreal project\battletankdemo\battletank\source\battletank\public\TankAimingComponent.h
+D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Inc\BattleTank\TankAimingComponent.generated.h
+D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Inc\BattleTank\Tank.generated.h

@@ -1,0 +1,19 @@
+D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Definitions.BattleTank.h
+D:\Unreal Project\BattleTankDemo\BattleTank\Source\BattleTank\Public\TankAimingComponent.h
+D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Inc\BattleTank\TankAimingComponent.generated.h
+D:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+d:\unreal\ue_4.22\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
+D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+D:\Unreal Project\BattleTankDemo\BattleTank\Source\BattleTank\Public\TankBarrel.h
+D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Inc\BattleTank\TankBarrel.generated.h
+D:\Unreal Project\BattleTankDemo\BattleTank\Source\BattleTank\Public\TankTurret.h
+D:\Unreal Project\BattleTankDemo\BattleTank\Intermediate\Build\Win64\UE4Editor\Inc\BattleTank\TankTurret.generated.h
+D:\Visual Studio\Visual Studio IDE\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+D:\Visual Studio\Visual Studio IDE\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
